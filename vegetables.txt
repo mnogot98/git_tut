@@ -1,1 +1,1 @@
-vegetables = ["tomato","lemon","carrot"]
+vegetables = ["potato","tomato","lemon","carrot"]
